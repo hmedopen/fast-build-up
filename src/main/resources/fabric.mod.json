@@ -1,0 +1,29 @@
+{
+	"schemaVersion": 1,
+	"id": "fastbuildup",
+	"version": "${version}",
+	"name": "Fast Build Up",
+	"description": "Build upward fast, smooth, and easily by holding Jump, Use Item, and Blocks.",
+	"authors": [
+		"Antigravity"
+	],
+	"contact": {
+		"homepage": "https://github.com/fastbuildup"
+	},
+	"license": "MIT",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.fastbuildup.FastBuildUpMod"
+		],
+		"client": [
+			"com.fastbuildup.client.FastBuildUpClientMod"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.3",
+		"minecraft": "~26.1.2",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}
