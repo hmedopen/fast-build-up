@@ -8,9 +8,12 @@
 		"Antigravity"
 	],
 	"contact": {
-		"homepage": "https://github.com/fastbuildup"
+		"homepage": "https://github.com/hmedopen/fast-build-up",
+		"sources": "https://github.com/hmedopen/fast-build-up",
+		"issues": "https://github.com/hmedopen/fast-build-up/issues"
 	},
 	"license": "MIT",
+	"icon": "assets/fastbuildup/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
