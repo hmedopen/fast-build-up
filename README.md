@@ -12,7 +12,7 @@ placeable block in your main hand to place blocks beneath yourself while rising.
 
 ## Requirements
 
-Fast Build Up 1.0.1 targets Minecraft 26.1.2 with Fabric Loader 0.19.3,
+Fast Build Up 1.1 targets Minecraft 26.1.2 with Fabric Loader 0.19.3,
 Fabric API 0.151.0+26.1.2, and Java 25.
 
 ## Configuration
@@ -26,7 +26,7 @@ is closed to customize the placement and movement behavior.
 .\gradlew.bat build
 ```
 
-The release JAR is written to `build/libs/fastbuildup-1.0.1.jar`.
+The release JAR is written to `build/libs/fastbuildup-1.1.jar`.
 
 ## Links
 
